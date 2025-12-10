@@ -54,3 +54,11 @@ body {
     width: 90%;
     height: auto;
 }
+#joinA a {
+    color: #E0E0E0;
+    text-decoration: none;
+    font-weight: bold;
+}
+#joinA a:hover {
+    filter: brightness(50%);
+}
